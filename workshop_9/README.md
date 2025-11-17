@@ -126,6 +126,9 @@
 
 ## **Посилання на Figma-файли з виконаними завданнями**
 
-[Переглянути Figma-файл із роботою 1](https://www.figma.com/design/m5Ak1udbPSh3zjh6zB8ojN/UI-UX-9?node-id=0-1&p=f&t=4IkPGzJVS0PP5teL-0)
-[Переглянути Figma-файл із роботою 2](https://www.figma.com/design/m5Ak1udbPSh3zjh6zB8ojN/UI-UX-9?node-id=62-4&p=f&t=4IkPGzJVS0PP5teL-0)
-[Переглянути Figma-файл із роботою 3](https://www.figma.com/design/m5Ak1udbPSh3zjh6zB8ojN/UI-UX-9?node-id=64-500&p=f&t=4IkPGzJVS0PP5teL-0)
+- [Переглянути Figma-файл із роботою 1](https://www.figma.com/design/m5Ak1udbPSh3zjh6zB8ojN/UI-UX-9?node-id=0-1&p=f&t=4IkPGzJVS0PP5teL-0)
+  
+- [Переглянути Figma-файл із роботою 2](https://www.figma.com/design/m5Ak1udbPSh3zjh6zB8ojN/UI-UX-9?node-id=62-4&p=f&t=4IkPGzJVS0PP5teL-0)
+  
+- [Переглянути Figma-файл із роботою 3](https://www.figma.com/design/m5Ak1udbPSh3zjh6zB8ojN/UI-UX-9?node-id=64-500&p=f&t=4IkPGzJVS0PP5teL-0)
+  
