@@ -47,19 +47,31 @@
   - **Primary**
   - **Secondary**
 
-![Photo](images/P1-1.png)
-![Photo](images/P1-2.png)
-![Photo](images/P1-3.png)
-![Photo](images/P1-4.png)
-![Photo](images/P1-5.png)
-![Photo](images/P1-6.png)
-![Photo](images/P1-7.png)
-![Photo](images/P1-8.png)
-![Photo](images/P1-9.png)
-![Photo](images/P1-10.png)
-![Photo](images/P1-11.png)
-![Photo](images/P1-12.png)
-![Photo](images/P1-13.png)
+## ![Photo](images/P1-1.png)
+
+## ![Photo](images/P1-2.png)
+
+## ![Photo](images/P1-3.png)
+
+## ![Photo](images/P1-4.png)
+
+## ![Photo](images/P1-5.png)
+
+## ![Photo](images/P1-6.png)
+
+## ![Photo](images/P1-7.png)
+
+## ![Photo](images/P1-8.png)
+
+## ![Photo](images/P1-9.png)
+
+## ![Photo](images/P1-10.png)
+
+## ![Photo](images/P1-11.png)
+
+## ![Photo](images/P1-12.png)
+
+## ![Photo](images/P1-13.png)
 
 ### **4.2. Створено розширений набір кнопок (80 варіантів)**
 
@@ -68,11 +80,11 @@
 - **Тип символів:** Arrows, Dots
 - **Позиція іконки (Location):** None, Left, Right, Both
 
-![Photo](images/P2-1.png)
-![Photo](images/P2-1.png)
-![Photo](images/P2-1.png)
+## ![Photo](images/P2-1.png)
 
----
+## ![Photo](images/P2-1.png)
+
+## ![Photo](images/P2-1.png)
 
 ### **5. Сформовано фінальні макети**
 
@@ -91,24 +103,37 @@
 
 ## **Фотографії з виконанням завдань**
 
-![Photo](images/P1-1.png)
-![Photo](images/P1-2.png)
-![Photo](images/P1-3.png)
-![Photo](images/P1-4.png)
-![Photo](images/P1-5.png)
-![Photo](images/P1-6.png)
-![Photo](images/P1-7.png)
-![Photo](images/P1-8.png)
-![Photo](images/P1-9.png)
-![Photo](images/P1-10.png)
-![Photo](images/P1-11.png)
-![Photo](images/P1-12.png)
-![Photo](images/P1-13.png)
-![Photo](images/P2-1.png)
-![Photo](images/P2-2.png)
-![Photo](images/P2-3.png)
+## ![Photo](images/P1-1.png)
 
----
+## ![Photo](images/P1-2.png)
+
+## ![Photo](images/P1-3.png)
+
+## ![Photo](images/P1-4.png)
+
+## ![Photo](images/P1-5.png)
+
+## ![Photo](images/P1-6.png)
+
+## ![Photo](images/P1-7.png)
+
+## ![Photo](images/P1-8.png)
+
+## ![Photo](images/P1-9.png)
+
+## ![Photo](images/P1-10.png)
+
+## ![Photo](images/P1-11.png)
+
+## ![Photo](images/P1-12.png)
+
+## ![Photo](images/P1-13.png)
+
+## ![Photo](images/P2-1.png)
+
+## ![Photo](images/P2-2.png)
+
+## ![Photo](images/P2-3.png)
 
 ## **Висновки**
 
